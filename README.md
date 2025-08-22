@@ -17,12 +17,20 @@
 
   ---
 
-  <!-- 🚀 Badges Section -->
+  <!-- 🚀 GitHub Badges -->
   ![GitHub release (latest by date)](https://img.shields.io/github/v/release/Tocsiop/R8HEX?color=blue&label=Latest%20Release&style=for-the-badge)
   ![GitHub stars](https://img.shields.io/github/stars/Tocsiop/R8HEX?style=for-the-badge&color=yellow)
   ![GitHub forks](https://img.shields.io/github/forks/Tocsiop/R8HEX?style=for-the-badge&color=orange)
   ![GitHub issues](https://img.shields.io/github/issues/Tocsiop/R8HEX?style=for-the-badge&color=red)
   ![GitHub license](https://img.shields.io/github/license/Tocsiop/R8HEX?style=for-the-badge&color=green)
+
+  ---
+
+  <!-- 🎯 Custom Badges -->
+  ![Telegram](https://img.shields.io/badge/Telegram-Join%20Channel-blue?style=for-the-badge&logo=telegram)
+  ![Developer](https://img.shields.io/badge/Developer-FridayXD-green?style=for-the-badge&logo=github)
+  ![Version](https://img.shields.io/badge/Free%20Version-v1.2.0-yellow?style=for-the-badge)
+  ![Paid](https://img.shields.io/badge/Paid%20Version-Available-red?style=for-the-badge)
 
 </div>
 

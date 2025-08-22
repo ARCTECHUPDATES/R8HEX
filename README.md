@@ -78,6 +78,25 @@
 
 ---
 
+---
+
+## 🌟 Premium Highlights
+
+🚀 Paid version सिर्फ comparison में extra features ही नहीं देता, बल्कि और भी  
+powerful चीजें unlock करता है:
+
+- 🎭 **Full Stealth Mode** → Victim को app दिखे ही नहीं (auto-hide + custom icon)  
+- 🛰 **Live Location Tracking** → Real-time device movement map पर  
+- 📒 **Gallery & Media Stealer** → Victim का पूरा photo/video data pull  
+- 🔐 **Keylogger** → हर typed text का रिकॉर्ड  
+- 🖥️ **Live Screen Capture** → Background में screenshot लेने की power  
+- 🤖 **Auto Permission Engine** → बिना user notice के सभी permissions grant  
+- 🔴 **Multi-Bot Support** → एक ही panel से multiple bots handle  
+- ☁️ **One-Click Hosting** → Glitch / Replit / Heroku deploy ready  
+- 🛡 **Play Protect Bypass** → Auto-update & stealth survival  
+- 🔥 **Continuous Updates** → हर update में और premium features add  
+
+
 ## ⚙️ How to Deploy Free Version
 - [📖 Deployment Guide](https://github.com/Tocsiop/R8HEX/blob/main/Readmds/Deployed.md)
 

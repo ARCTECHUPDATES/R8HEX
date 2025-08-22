@@ -15,6 +15,15 @@
   **You can test Android Phones & Tablets.**  
   🔗 Check full features by visiting the links below.
 
+  ---
+
+  <!-- 🚀 Badges Section -->
+  ![GitHub release (latest by date)](https://img.shields.io/github/v/release/Tocsiop/R8HEX?color=blue&label=Latest%20Release&style=for-the-badge)
+  ![GitHub stars](https://img.shields.io/github/stars/Tocsiop/R8HEX?style=for-the-badge&color=yellow)
+  ![GitHub forks](https://img.shields.io/github/forks/Tocsiop/R8HEX?style=for-the-badge&color=orange)
+  ![GitHub issues](https://img.shields.io/github/issues/Tocsiop/R8HEX?style=for-the-badge&color=red)
+  ![GitHub license](https://img.shields.io/github/license/Tocsiop/R8HEX?style=for-the-badge&color=green)
+
 </div>
 
 ---

@@ -36,6 +36,11 @@
 
 ---
 
+## 📸 Panel Screenshot
+- [🔗 View Panel Screenshot](https://github.com/Tocsiop/R8HEX/blob/main/Readmds/Panel_ss.md)
+
+---
+
 ## ⚖️ Free vs Paid Feature Comparison
 
 | Feature / Module                                | Free ✅ | Paid 🚀 |
@@ -70,6 +75,11 @@
 | ♥ Play Protection Bypass                        | ✅      | ✅      |
 | 🌍 Real-time Details & Custom Web               | ✅      | ✅      |
 | 🔥 More Advanced Features                       | ❌      | ✅ (updates added) |
+
+---
+
+## ⚙️ How to Deploy Free Version
+- [📖 Deployment Guide](https://github.com/Tocsiop/R8HEX/blob/main/Readmds/Deployed.md)
 
 ---
 

